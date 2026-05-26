@@ -1,4 +1,4 @@
-<img width="1517" height="853" alt="Banner" src="https://github.com/user-attachments/assets/8210cab0-2463-45d8-b604-4c2897bdf492" />
+<img width="1200" height="350" alt="Banner" src="https://github.com/user-attachments/assets/1d49bbcb-2796-4c77-9efb-8e80a28b781b" />
 
 # Data Analyst | Data & Customer Experience | Business Operations
 
