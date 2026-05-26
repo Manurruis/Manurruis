@@ -23,7 +23,8 @@ Python • SQL • Tableau • Power BI • IA
 - Comunico insights de forma accionable
 - Proyecto los datos de forma visual para facilitar la toma de decisiones
 
-## Proyectos Proyecto Júpiter — Benchmarking Mercadona
+# Proyectos 
+## Proyecto Júpiter — Benchmarking Mercadona
 
 - Análisis competitivo del catálogo de supermercados en España
 - Comparación de Mercadona con Carrefour, DIA, Lidl y Alcampo
