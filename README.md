@@ -1,3 +1,5 @@
+<img width="1517" height="853" alt="Banner" src="https://github.com/user-attachments/assets/8210cab0-2463-45d8-b604-4c2897bdf492" />
+
 # Data Analyst | Data & Customer Experience | Business Operations
 
 Trabajo en la intersección entre datos, experiencia de cliente y operaciones, en entornos donde el análisis tiene impacto directo en decisiones de negocio.
